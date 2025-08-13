@@ -29,4 +29,4 @@ npm install
 npm run dev
 ```
 
-![Превью](./preview.mov)
+![Превью](./public/preview.mov)
